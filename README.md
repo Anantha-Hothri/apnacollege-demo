@@ -1,3 +1,4 @@
 # apnacollege-demo
-This is my repository to learn version control from Shradha didi
+This is my repository to learn version control from Shradha didi.
+<br>
 Author - Anantha Hothri
